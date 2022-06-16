@@ -1,6 +1,6 @@
 ﻿# .Net 6.0
 
-#### ContactBookLibrary (DotNet 6.0 ClassLibrary)
+#### ContactBookLibrary (.Net 6 ClassLibrary)
 
 - Packages for the Project
   - Install-Package Newtonsoft.Json -v 13.0.1
